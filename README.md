@@ -22,7 +22,7 @@ Overview
 *	Identify best-selling products and products with declining sales.
 
 **Dashboard**
-![Dashboard Image](https://github.com/lalit286/DATA-ANALYST-PORTFOLIO/blob/main/Region%20Sales%20Analysis.png)
+![Dashboard Image](https://github.com/lalit286/Regional_Sales_Analysis-Dashboard-Tableau/blob/main/Region%20Sales%20Analysis.png)
 
 
 
